@@ -3,7 +3,7 @@
 <p>A simple weather forecast app built using JavaScript, HTML, and Tailwind CSS.</p>
 
 
-# run these command  for tailwind css to install node_modules in project dirctory
+## run these command  for tailwind css to install node_modules in project dirctory
 <br>
 npm install
 <br>
@@ -20,8 +20,16 @@ npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
 <br>
 ✔️ Fully responsive UI (Desktop, iPad Mini, iPhone SE)
 
+# 🛠 Setup Instructions
+Clone the repository: "git clone https://github.com/Misra-Praveen/Weather-Application.git"
+<br>
+Navigate into the project directory
+<br>
+open index.html in your browser.
 
-#📱 Responsive Design
+
+
+# 📱 Responsive Design
 <br>
 Desktop: Full layout with search & forecast
 <br>
