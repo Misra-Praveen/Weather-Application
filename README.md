@@ -2,13 +2,13 @@
 
 <p>A simple weather forecast app built using JavaScript, HTML, and Tailwind CSS.</p>
 
-<br>
-# Installation run these command 
+
+# run these command  for tailwind css to install node_modules in project dirctory
 <br>
 npm install
 <br>
 npx @tailwindcss/cli -i ./input.css -o ./output.css --watch 
-<br>
+
 # 🚀 Features
 ✔️ Fetches current weather data
 <br>
@@ -19,7 +19,7 @@ npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
 ✔️ Error handling for invalid city names
 <br>
 ✔️ Fully responsive UI (Desktop, iPad Mini, iPhone SE)
-<br>
+
 
 #📱 Responsive Design
 <br>
